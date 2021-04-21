@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ishaan-10/Ishaan-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my project HackAlong using M-E-N stack
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything !
 - 📫 How to reach me: Mail me at b.ishaan10@gmail.com
 - 😄 Pronouns: He/Him
--->
