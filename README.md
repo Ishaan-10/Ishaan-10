@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Web App using MERN stack
-- 🌱 I’m currently learning Data Structures and Algorthims and Devops
+- 🌱 I’m currently learning Data Structures and Algorithms(DSA) and DevOps
 - 👯 I’m looking to collaborate on any Web Development projects using MERN Stack
 - 💬 Ask me about anything !
 - 📫 How to reach me: mail me at b.ishaan10@gmail.com
