@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishaan Bhola</h1>
+<h3 align=center>I'm a technophile with a passion to learn and discover new technologies. Currently pursuing Computer and Electronics Engineering and actively working towards enhancing my tech skills.</h3>
 
-
+##
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Web App using MERN stack
@@ -18,3 +19,11 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ishaan-10)
 
+## Wish to contact me?
+
+Click away :)
+
+<a href="https://www.linkedin.com/in/ishaan-bhola/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href="mailto:b.ishaan10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
+<a href="https://www.instagram.com/ishaan.10_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/Ishaan10_/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
