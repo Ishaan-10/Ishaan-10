@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishaan-10&count_private=true&theme=tokyonight&showicons=true)]()                         
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-10&langs_count=5&theme=tokyonight)]()
-![](https://komarev.com/ghpvc/?username=ishaan-10)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishaan-10&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&count_private=true&hide=issues)]()
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=ishaan-10)
 
