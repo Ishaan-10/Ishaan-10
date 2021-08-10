@@ -4,6 +4,9 @@
 ##
 Here are some ideas to get you started:
 
+![](https://komarev.com/ghpvc/?username=ishaan-10)
+
+
 - 🔭 I’m currently working on a Web App using MERN stack
 - 🌱 I’m currently learning Data Structures and Algorithms(DSA) and DevOps
 - 👯 I’m looking to collaborate on any Web Development projects using MERN Stack
@@ -16,8 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![](https://komarev.com/ghpvc/?username=ishaan-10)
 
 ## Wish to contact me?
 
