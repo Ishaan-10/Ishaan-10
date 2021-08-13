@@ -2,7 +2,6 @@
 <h3 align=center>I'm a technophile with a passion to learn and discover new technologies. Currently pursuing Computer and Electronics Engineering and actively working towards enhancing my tech skills.</h3>
 
 ##
-Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ishaan-10)
 
