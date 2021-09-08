@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on a Web App using MERN stack
-- 🌱 I’m currently learning Data Structures and Algorithms(DSA) and DevOps
+- 🌱 I’m currently learning Data Structures and Algorithms(DSA) and Cloud Concepts.
 - 👯 I’m looking to collaborate on any Web Development projects using MERN Stack
 - 💬 Ask me about anything !
 - 📫 How to reach me: mail me at b.ishaan10@gmail.com
