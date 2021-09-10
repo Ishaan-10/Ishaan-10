@@ -12,6 +12,7 @@
 - 💬 Ask me about anything !
 - 📫 How to reach me: mail me at b.ishaan10@gmail.com
 - 😄 Pronouns: He/Him
+- Checkout my portfolio website at https://ishaanbhola.tech
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishaan-10&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&count_private=true&hide=issues)]()
