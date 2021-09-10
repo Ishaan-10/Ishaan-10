@@ -25,5 +25,5 @@ Click away :)
 
 <a href="https://www.linkedin.com/in/ishaan-bhola/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href="mailto:b.ishaan10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
-<a href="https://www.instagram.com/ishaan.10_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/Ishaan10_/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<!-- <a href="https://www.instagram.com/ishaan.10_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/Ishaan10_/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
