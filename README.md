@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaan Bhola</h1>
+<h1 align="center">Hi 👋, <a href="https://ishaanbhola.tech" target="_blank" >I'm Ishaan Bhola</a></h1>
 <h3 align=center>I'm a technophile with a passion to learn and discover new technologies. Currently pursuing Computer and Electronics Engineering and actively working towards enhancing my tech skills.</h3>
 
 ##
@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=ishaan-10)
 
 
-- 🔭 I’m currently working on a Web App using MERN stack
+- 🔭 I’m currently working on my DSA skills
 - 🌱 I’m currently learning Data Structures and Algorithms(DSA) and Cloud Concepts.
 - 👯 I’m looking to collaborate on any Web Development projects using MERN Stack
 - 💬 Ask me about anything !
