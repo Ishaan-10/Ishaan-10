@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="https://ishaanbhola.tech" target="_blank" >I'm Ishaan Bhola</a></h1>
+<h1 align="center">Hi 👋, <a href="https://ishaanbhola.netlify.app" target="_blank" >I'm Ishaan Bhola</a></h1>
 <h3 align=center>I'm a technophile with a passion to learn and discover new technologies. Currently pursuing Computer and Electronics Engineering and actively working towards enhancing my tech skills.</h3>
 
 ##
@@ -12,7 +12,7 @@
 - 💬 Ask me about anything !
 - 📫 How to reach me: mail me at b.ishaan10@gmail.com
 - 😄 Pronouns: He/Him
-- Checkout my portfolio website at https://ishaanbhola.tech
+- Checkout my portfolio website at https://ishaanbhola.netlify.app
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishaan-10&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&count_private=true&hide=issues)]()
